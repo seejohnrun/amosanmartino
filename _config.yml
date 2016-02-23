@@ -4,13 +4,7 @@ description: >
 baseurl: "/"
 url: "http://amosanmartino.com"
 
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
-
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+twitter_username: gdsmip
+facebook_username: San-Martino-In-Pensilis-370969602199
 
 markdown: kramdown
